@@ -10,6 +10,3 @@ class Note(Base_Note):
     id: int
     created_at : datetime
     owner_id: int
-    
-
-class Return_Note(BaseModel)
